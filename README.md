@@ -50,7 +50,7 @@ This API service implements a RAG system that:
 
 1. Clone the repository:
 ```bash
-git clone [<repository-url>](https://github.com/rdxvicky/os-chatbot.git)
+git clone https://github.com/rdxvicky/os-chatbot.git
 ```
 
 2. Install dependencies:
