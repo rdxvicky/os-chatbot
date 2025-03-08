@@ -1,0 +1,24 @@
+# Core libraries
+langchain
+langchain-openai
+faiss-cpu
+torch
+transformers
+sentence-transformers
+
+# Processing libraries
+markdown
+beautifulsoup4
+tqdm
+
+# API libraries
+fastapi
+uvicorn
+pydantic
+
+# Utility libraries
+python-dotenv==1.0.0
+
+# New libraries
+langchain-community
+openai
